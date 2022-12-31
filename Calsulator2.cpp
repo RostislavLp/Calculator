@@ -1,6 +1,8 @@
-﻿#include <iostream>
-#include "modes.h"
+//Губкин Ростислав, 4 группа 
 
+#include <iostream>
+#include "modes.h"
+ 
 void Calculator() {
 	while (true) {
 		cout << "Choose the mode:\n1.Standart\n2.Programmer\n3.Scientific\n4.Date Calculator\n5.Sorting" << endl;
